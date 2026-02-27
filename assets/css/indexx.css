@@ -31,10 +31,11 @@ button.btn
 }
 div.aa
 {
-  
+  margin-bottom: 20px;
 }
 div.a
 {
   position: relative;
   left: ;
+  margin-bottom: 20px;
 }
